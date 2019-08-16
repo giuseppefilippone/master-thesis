@@ -1,3 +1,4 @@
+Questa tabella mostra i parametri delle curve selezionate:
 | Field characteristic | A | d    | Edwards Curve Order | Montgomery Curve Order | P_x  | P_y  | 
 |----------------------|---|------|---------------------|------------------------|------|------| 
 | 1019                 | 0 | 1018 | 1022                | 1020                   | 1018 | 241  | 
@@ -1064,3 +1065,4 @@
 | 9923                 | 1 | 6615 | 10082               | 10080                  | 1    | 1540 | 
 | 9931                 | 4 | 6621 | 9874                | 9872                   | 1    | 1851 | 
 | 9967                 | 3 | 5    | 9902                | 9900                   | 9966 | 9966 | 
+[Table caption, works as a reference][section-mmd-tables-table1]
