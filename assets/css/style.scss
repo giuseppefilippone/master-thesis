@@ -7,10 +7,15 @@
     display: none !important;
 }
 
+.main-content {
+    max-width: 100% !important;
+}
+
 table {
     text-align: left;
     overflow: scroll !important;
     border-collapse: collapse;
+    max-height: 500px;
 }
 
 table td {
