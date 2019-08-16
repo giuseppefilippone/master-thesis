@@ -1,4 +1,5 @@
 Questa tabella mostra i parametri delle curve selezionate:
+
 | Field characteristic | A | d    | Edwards Curve Order | Montgomery Curve Order | P_x  | P_y  | 
 |----------------------|---|------|---------------------|------------------------|------|------| 
 | 1019                 | 0 | 1018 | 1022                | 1020                   | 1018 | 241  | 
