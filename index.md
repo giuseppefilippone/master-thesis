@@ -1,4 +1,5 @@
-# Tabelle delle simulazioni
+# Risultati delle simulazioni di Giuseppe Filippone della tesi magistrale: Curve ellittiche in forma di Edwards e applicazioni nel mondo delle Blockchain
+Di seguito sono riportate le tabelle relative ai parametri delle curve ellittiche in forma Montgomery e in forma di Edwards che sono state utilizzate, i punti generatori per tali curve, i risultati relativi ai tempi di cifratura necessari per tali curve, e i tempi di decifratura e risoluzione del DLP mediante algoritmo *baby-step giant-step* e in *brute force*.
 
 ## Parametri delle curve selezionate:
 
