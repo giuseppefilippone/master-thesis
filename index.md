@@ -1,4 +1,4 @@
-Questa tabella mostra i parametri delle curve selezionate:
+# Questa tabella mostra i parametri delle curve selezionate:
 
 | Field characteristic | A | d    | Edwards Curve Order | Montgomery Curve Order | P_x  | P_y  | 
 |----------------------|---|------|---------------------|------------------------|------|------| 
@@ -1067,7 +1067,7 @@ Questa tabella mostra i parametri delle curve selezionate:
 | 9931                 | 4 | 6621 | 9874                | 9872                   | 1    | 1851 | 
 | 9967                 | 3 | 5    | 9902                | 9900                   | 9966 | 9966 | 
 
-Questa tabella mostra i punti generatori delle curve selezionate:
+# Questa tabella mostra i punti generatori delle curve selezionate:
 
 | Field characteristic | Edwards Curve P_x | Edwards Curve P_y | Edwards Curve Point Order | Montgomery Curve P_x | Montgomery Curve P_y | Montgomery Curve Point Order | 
 |----------------------|-------------------|-------------------|---------------------------|----------------------|----------------------|------------------------------| 
@@ -2136,7 +2136,7 @@ Questa tabella mostra i punti generatori delle curve selezionate:
 | 9931                 | 13                | 4949              | 9872                      | 8                    | 1241                 | 9872                         | 
 | 9967                 | 15                | 2545              | 9900                      | 3                    | 3056                 | 9900                         | 
 
-Questa tabella mostra i risultati delle simulazioni sui tempi di cifratura
+# Questa tabella mostra i risultati delle simulazioni sui tempi di cifratura:
 
 | Field characteristic | Montgomery Curve Time (s) | Edwards Curve Time (s) | Ratio   | 
 |----------------------|---------------------------|------------------------|---------| 
@@ -3205,7 +3205,7 @@ Questa tabella mostra i risultati delle simulazioni sui tempi di cifratura
 | 9931                 | 0.02295                   | 0.01646                | 1.39372 | 
 | 9967                 | 0.02471                   | 0.01769                | 1.39704 | 
 
-Questa tabella mostra i risultati sui tempi di cifratura e risoluzione del DLP
+# Questa tabella mostra i risultati sui tempi di cifratura e risoluzione del DLP:
 
 | Field characteristic | Multipliers                                       | Montgomery Curve Time (s) | Edwards Curve Time (s) | Montgomery Curve DLP Time (s) | Edwards Curve DLP Time (s) | Montgomery Curve Brute Force DLP Time (s) | Edwards Curve Brute Force DLP Time (s) | Montgomery Curve Ratio | Edwards Curve Ratio | Montgomery Curve Brute Force Ratio | Edwards Curve Brute Force Ratio | 
 |----------------------|---------------------------------------------------|---------------------------|------------------------|-------------------------------|----------------------------|-------------------------------------------|----------------------------------------|------------------------|---------------------|------------------------------------|---------------------------------| 
