@@ -3205,7 +3205,7 @@
 | 9931                 | 0.02295                   | 0.01646                | 1.39372 | 
 | 9967                 | 0.02471                   | 0.01769                | 1.39704 | 
 
-# Questa tabella mostra i risultati sui tempi di cifratura e risoluzione del DLP:
+# Questa tabella mostra i risultati sui tempi di decifratura e risoluzione del DLP:
 
 | Field characteristic | Multipliers                                       | Montgomery Curve Time (s) | Edwards Curve Time (s) | Montgomery Curve DLP Time (s) | Edwards Curve DLP Time (s) | Montgomery Curve Brute Force DLP Time (s) | Edwards Curve Brute Force DLP Time (s) | Montgomery Curve Ratio | Edwards Curve Ratio | Montgomery Curve Brute Force Ratio | Edwards Curve Brute Force Ratio | 
 |----------------------|---------------------------------------------------|---------------------------|------------------------|-------------------------------|----------------------------|-------------------------------------------|----------------------------------------|------------------------|---------------------|------------------------------------|---------------------------------| 
