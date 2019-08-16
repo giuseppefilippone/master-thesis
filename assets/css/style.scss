@@ -21,7 +21,8 @@ table td {
     border: none !important;
 }
 
-table tbody tr:hover {
+table tbody tr:hover,
+table tbody tr:active {
     background: #4caf50;
     color: #FFFFFF;
 }
