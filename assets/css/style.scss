@@ -11,13 +11,7 @@ table {
     text-align: left;
     border-collapse: collapse;
 }
-table td, table th {
-    padding: 0px 0px;
-}
 table tr:hover {
-    background: #666666;
-}
-table tr:nth-child(even) {
     background: #666666;
 }
 table thead {
