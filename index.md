@@ -4278,7 +4278,7 @@ Di seguito sono riportate le tabelle relative ai parametri delle curve ellittich
 | 9967                 | 2739,5377,1239,3908,3170,3489,9273,4864,3535,549  | 0.02225                   | 0.01558                | 0.21294                       | 0.15554                    | 5.01146                                   | 3.6572                                 | 10                     | 10                  | 226                                | 235                             | 
 
 
-## Risultati firma digitale mediante curva 25519
+## Risultati firma digitale mediante curva 25519:
 
 | Montgomery Curve - Initialization Time (s) | Montgomery Curve - Signature Time (s) | Montgomery Curve - Verification Time (s) | Edwards Curve - Initialization Time (s) | Edwards Curve - Signature Time (s) | Edwards Curve - Verification Time (s) | Twisted Edwards Curve - Initialization Time (s) | Twisted Edwards Curve - Signature Time (s) | Twisted Edwards Curve - Verification Time (s) | 
 |--------------------------------------------|---------------------------------------|------------------------------------------|-----------------------------------------|------------------------------------|---------------------------------------|-------------------------------------------------|--------------------------------------------|-----------------------------------------------| 
