@@ -5,11 +5,11 @@ Di seguito sono riportate le tabelle relative ai parametri delle curve ellittich
 
 ## Files
 Di seguito vi sono i file csv con i dati:
-* [parametri](docs/parameters.txt)
-* [generatori](docs/points.txt)
-* [cifratura](docs/test_cipher.txt)
-* [dlp](docs/test_find_multiplier.txt)
-* [firma-digitale](docs/ecdsa_25519.txt)
+* [Parametri](docs/parameters.txt)
+* [Generatori](docs/points.txt)
+* [Cifratura](docs/test_cipher.txt)
+* [DLP](docs/test_find_multiplier.txt)
+* [Firma digitale](docs/ecdsa_25519.txt)
 
 
 ## Parametri delle curve selezionate:
