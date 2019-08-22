@@ -3,6 +3,11 @@
 
 Di seguito sono riportate le tabelle relative ai parametri delle curve ellittiche in forma Montgomery e in forma di Edwards che sono state utilizzate, i punti generatori per tali curve, i risultati relativi ai tempi di cifratura necessari per tali curve, e i tempi di decifratura e risoluzione del DLP mediante algoritmo *baby-step giant-step* e in *brute force*. Infine, vi è la tabella relativa ai tempi di esecuzione dell'algoritmo di firma digitale mediante curva 25519.
 
+## Scripts
+Di seguito vi è il link dello zip cifrato contenente gli script implementati:
+* [Codici](docs/python.zip)
+
+
 ## Files
 Di seguito vi sono i file csv con i dati:
 * [Parametri](docs/parameters.txt)
